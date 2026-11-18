@@ -60,10 +60,10 @@ This project demonstrates practical knowledge of:
 The report contains a selection screen for filtering Sales Orders and an interactive ALV Grid for displaying the results.
 
 ### Selection Screen
-![Selection Screen](screenshots/selection_screen.png)
+![Selection Screen](screenshots/selection%20screen.png)
 
 ### ALV Output
-![ALV](screenshots/alv.png)
+![ALV Output](screenshots/ALV.png)
 
 ## Installation and Setup
 
